@@ -9,5 +9,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [the little prince](ebook/the%20little%20prince.pdf) - Antoine de Saint-Exupéry (2015)
 6. [filosofi teras](ebook/filosofi%20teras.pdf) - Henry Manapiring (2018)
 7. [3726 mdpl](ebook/3726%20mdpl.pdf) - Nurwina Sari (2024)
+8. [children](ebook/children.pdf) - Rand, McNally & Co (1919)
+9. [the wonderful](ebook/the%20wonderful.pdf) - L. Frank (1900)
+10. [alice](ebook/alice.pdf) - Lewis Carroll (1865)
 
 *Powered by GitHub Pages*
