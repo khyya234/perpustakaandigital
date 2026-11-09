@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [children](ebook/children.pdf) - Rand, McNally & Co (1919)
 9. [the wonderful](ebook/the%20wonderful.pdf) - L. Frank (1900)
 10. [alice](ebook/alice.pdf) - Lewis Carroll (1865)
+11. [ringkasan ugc](ebook/ringkasan%20ugc.pdf) - Nasywa (2026)
 
 *Powered by GitHub Pages*
