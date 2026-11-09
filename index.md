@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [bumi manusia](ebook/bumi%20manusia.pdf) - Pramoedya Ananta Toer (1980)
 4. [negeri 5 menara](ebook/negeri%205%20menara.pdf) - Ahmad Fuadi (2009)
 5. [the little prince](ebook/the%20little%20prince.pdf) - Antoine de Saint-Exupéry (2015)
+6. [filosofi teras](ebook/filosofi%20teras.pdf) - Henry Manapiring (2018)
 
 *Powered by GitHub Pages*
